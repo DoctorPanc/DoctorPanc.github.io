@@ -3,7 +3,7 @@
 --stripebackground:#aa9dc3;         /*The color of the small stripe just under the header*/
 --windowbackground: #4b5473;        /*The color of the background of the main window main area.*/
 --maintextcolor:#e9e7e8;               /*The color of the text in the main area.*/
---headercolor:#4b5473;                 /*The color of the text in the header/title.*/
+--headercolor:#e9e7e8;                 /*The color of the text in the header/title.*/
 --linktextcolor:var(--maintextcolor); /*This line means that the links will have the same color as the normal text in the main area of the window. Change if you want different colors.*/
 --backgroundImageUrl:url("resources/images/background.jpg");  /*The URL to the image you want to use as background.*/
 --focusImageUrl:url("resources/images/wave.png");   /*The URL to the image you want to use for the foreground.*/
