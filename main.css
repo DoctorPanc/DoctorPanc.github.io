@@ -41,8 +41,8 @@
 }
 .window-bg {
     background-image: url("resources/images/window.png");
-    height: 2400px;
-    width: 3840px;
+    height: 640px;
+    width: 960px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
