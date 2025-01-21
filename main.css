@@ -6,7 +6,7 @@
 --headercolor:#e9e7e8;                 /*The color of the text in the header/title.*/
 --linktextcolor:var(--maintextcolor); /*This line means that the links will have the same color as the normal text in the main area of the window. Change if you want different colors.*/
 --backgroundImageUrl:url("resources/images/background2.jpg");  /*The URL to the image you want to use as background.*/
---focusImageUrl:url("resources/images/tomoe.png");   /*The URL to the image you want to use for the foreground.*/
+--focusImageUrl:url("resources/images/tomoe2.png");   /*The URL to the image you want to use for the foreground.*/
 --backgroundBlur:blur(2px);                           /*Change how blurry the background is. Higher number is more blurry.*/
 --backgroundBorder:#000;                           /*If you have a blurry background, set the color of the border around the image to fit it here.*/
 --letterSpace:2px;                                    /*Define how far letters are spaced from each other in pixels.*/
